@@ -63,6 +63,8 @@ public class PlayerController : MonoBehaviour {
 			if (collected >= cyanide) {
 						winText.text = "you ate all the cyanide and died... grats";
 			speed = 0;
+			boost = 0;
+			boosth = 0;
 				} else {
 						winText.text = "";
 				}
