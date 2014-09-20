@@ -1,15 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Yupitsathing.cs">
     <Files>
-<<<<<<< HEAD
-      <File FileName="Assets\scripts\PlayerController.cs" Line="67" Column="15" />
-      <File FileName="Assets\scripts\CameraController.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\rotater.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\FollowPlayer.cs" Line="1" Column="1" />
-=======
-      <File FileName="Assets\scripts\PlayerController.cs" Line="1" Column="1" />
->>>>>>> origin/master
+      <File FileName="Assets\scripts\PlayerController.cs" Line="70" Column="37" />
+      <File FileName="Assets\scripts\Yupitsathing.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
