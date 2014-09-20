@@ -3,6 +3,8 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
+    public Yupitsathing the_thing;
+
 	public float speed;
 	private int collected;
 	public GUIText countText;
@@ -65,6 +67,7 @@ public class PlayerController : MonoBehaviour {
 			speed = 0;
 			boost = 0;
 			boosth = 0;
+            the_thing.enabled = true; // lololololol
 				} else {
 						winText.text = "";
 				}
