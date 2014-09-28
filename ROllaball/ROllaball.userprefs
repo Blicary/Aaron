@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Yupitsathing.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\BomberGunner\Assets\Bolt.js">
     <Files>
-      <File FileName="Assets\scripts\PlayerController.cs" Line="70" Column="37" />
-      <File FileName="Assets\scripts\Yupitsathing.cs" Line="1" Column="1" />
+      <File FileName="..\BomberGunner\Assets\Scripts\PlayerControl.js" Line="20" Column="30" />
+      <File FileName="..\BomberGunner\Assets\Bolt.js" Line="5" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
